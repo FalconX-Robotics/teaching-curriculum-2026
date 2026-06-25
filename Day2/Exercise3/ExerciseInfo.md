@@ -2,7 +2,6 @@
 
 ### TIP: run 'java Main.java' in the terminal to test
 ### TIP: do ONE TASK AT A TIME
-### TIP: all methods have to be static FOR NOW
 
 
     NOTE: the methods below have two parameters. use two variables holding decimals as input for the two parameters
