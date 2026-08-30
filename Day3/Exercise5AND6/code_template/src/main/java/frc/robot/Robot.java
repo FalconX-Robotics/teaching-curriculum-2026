@@ -65,7 +65,7 @@ StringLogEntry myStringLog;
   /** This function is called once each time the robot enters Disabled mode. */
   @Override
   public void disabledInit() {
-    CommandScheduler.getInstance().schedule(new ExampleCommand().ignoringDisable(true));
+    // CommandScheduler.getInstance().schedule(new ExampleCommand().ignoringDisable(true));
   }
 
   @Override

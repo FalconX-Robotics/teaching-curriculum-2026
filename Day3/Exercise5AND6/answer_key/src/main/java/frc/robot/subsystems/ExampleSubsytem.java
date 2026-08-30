@@ -12,6 +12,6 @@ public class ExampleSubsytem extends SubsystemBase {
     @Override
     public void periodic() {
         value = value + 1;
-        // System.out.println(value);
+        System.out.println(value);
     }
 }
